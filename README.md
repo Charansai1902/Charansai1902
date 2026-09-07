@@ -1,20 +1,21 @@
-<!-- =========================================================
-     M CHARAN SAI — GITHUB PROFILE
-     AI · COMPUTER VISION · AUTONOMOUS SYSTEMS · SOFTWARE
-========================================================== -->
-
 <div align="center">
 
-<img src="./assets/charan-github-banner.png" width="100%" alt="M Charan Sai — AI ML, Computer Vision, ADAS, Full-Stack and Automation" />
+<img src="./assets/charan-github-banner.png" width="100%" alt="M Charan Sai — AI ML Engineer, Computer Vision, ADAS, Autonomous Systems and Full-Stack Development" />
 
 <a href="https://git.io/typing-svg">
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&width=780&height=35&lines=Building+Intelligent+Real-World+Systems;Computer+Vision+%7C+Autonomous+Mobility+%7C+AI;Engineering+from+Perception+to+Production"
-  alt="Typing SVG"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=30&lines=Building+Intelligent+Real-World+Systems;Engineering+Computer+Vision+Solutions;Exploring+Autonomous+Mobility;From+Perception+to+Production"
+alt="Typing SVG"
 />
 </a>
 
 <br/>
+
+<strong>Bangalore, India</strong>
+&nbsp; | &nbsp;
+<strong>B.Tech in Internet of Things — K L University</strong>
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/charan-sai-masagani-86a069361/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
@@ -38,7 +39,6 @@ I enjoy taking ideas beyond experiments and turning them into systems that can b
 
 <table>
 <tr>
-
 <td width="33%" valign="top">
 
 ### Core Focus
@@ -69,7 +69,6 @@ Creative Coding
 Space & Future Tech
 
 </td>
-
 </tr>
 </table>
 
@@ -194,8 +193,6 @@ Real-time intelligent ADAS platform combining computer vision, collision-risk fo
 `Python` `YOLOv8` `OpenCV` `FastAPI`  
 `React` `WebSockets` `Kalman Filter` `NumPy`
 
-<br/>
-
 <a href="https://github.com/Charansai1902/NeuroRoad-Sentinel">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -222,8 +219,6 @@ AI-powered predictive maintenance system built around NASA C-MAPSS turbofan data
 `Python` `LSTM` `TensorFlow/Keras`  
 `NumPy` `Pandas` `scikit-learn` `Streamlit`
 
-<br/>
-
 <a href="https://github.com/Charansai1902/TurboLife">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -241,7 +236,7 @@ AI-powered predictive maintenance system built around NASA C-MAPSS turbofan data
 
 **FULL-STACK SCHEDULED MESSAGING PLATFORM**
 
-A full-stack application that lets users create messages and schedule them for future delivery using persistent storage, automated background scheduling, and email delivery.
+Full-stack platform for creating messages and scheduling them for future delivery with persistent storage, automated background scheduling, and email delivery.
 
 | Architecture | Technology |
 |---|---|
@@ -265,12 +260,12 @@ A full-stack application that lets users create messages and schedule them for f
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=charansai1902&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charansai1902&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Charansai1902&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charansai1902&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=charansai1902&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Charansai1902&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -294,27 +289,17 @@ A full-stack application that lets users create messages and schedule them for f
 **AWS Certified Cloud Practitioner**  
 <sub>Amazon Web Services</sub>
 
-<br/>
-
 **Oracle Cloud Infrastructure 2025 Certified Architect Associate**  
 <sub>Oracle</sub>
-
-<br/>
 
 **Oracle Cloud Infrastructure Foundations Associate**  
 <sub>Oracle</sub>
 
-<br/>
-
 **Aviatrix ACE Associate**  
 <sub>Aviatrix</sub>
 
-<br/>
-
 **AWS Educate — Introduction to Cloud 101**  
 <sub>Amazon Web Services</sub>
-
-<br/>
 
 **AWS Educate — Emerging Talent**  
 <sub>Amazon Web Services</sub>
@@ -328,27 +313,17 @@ A full-stack application that lets users create messages and schedule them for f
 **Neo4j Certified Professional**  
 <sub>Neo4j</sub>
 
-<br/>
-
 **Automation Anywhere Advanced Certification**  
 <sub>Automation Anywhere</sub>
-
-<br/>
 
 **Automation Anywhere Essentials**  
 <sub>Automation Anywhere</sub>
 
-<br/>
-
 **Data Engineer Associate Practical Assessment**  
 <sub>DataCamp</sub>
 
-<br/>
-
 **Microsoft Future Ready Talent — AI & Azure**  
 <sub>Microsoft / Future Ready Talent</sub>
-
-<br/>
 
 **NPTEL Technical Coursework**  
 <sub>IIT Kharagpur / NPTEL</sub>
@@ -366,27 +341,17 @@ A full-stack application that lets users create messages and schedule them for f
 **Full Stack Developer Path**  
 <sub>Scrimba</sub>
 
-<br/>
-
 **Google Analytics Certification**  
 <sub>Google</sub>
-
-<br/>
 
 **MATLAB Onramp**  
 <sub>MathWorks</sub>
 
-<br/>
-
 **Embedded System Application & IoT Programming**  
 <sub>K L University</sub>
 
-<br/>
-
 **LinkedIn Content & Creative Design Certification**  
 <sub>LinkedIn Learning</sub>
-
-<br/>
 
 **Cambridge Linguaskill — CEFR B2**  
 <sub>Cambridge English</sub>
@@ -398,24 +363,16 @@ A full-stack application that lets users create messages and schedule them for f
 ### Achievements & Recognition
 
 **INTI Dean's Honor Roll**  
-<sub>Academic Recognition · INTI International University</sub>
-
-<br/>
+<sub>INTI International University</sub>
 
 **Best Academic Student Award**  
 <sub>Academic Excellence</sub>
 
-<br/>
-
 **Certificate of Merit**  
-<sub>Wildlife Protection & Forest Monitoring Project</sub>
-
-<br/>
+<sub>Wildlife Protection & Forest Monitoring</sub>
 
 **IoT Expo 2025**  
 <sub>Smart Conveyor Belt Project Presentation</sub>
-
-<br/>
 
 **Deloitte Australia Technology Job Simulation**  
 <sub>Forage</sub>
@@ -430,47 +387,37 @@ A full-stack application that lets users create messages and schedule them for f
 # Currently Exploring
 
 <table>
-
 <tr>
 
-<td width="50%" align="center">
+<td width="25%" align="center">
 
 ### Advanced Computer Vision
-
 `Detection` · `Perception` · `Tracking`
 
 </td>
 
-<td width="50%" align="center">
+<td width="25%" align="center">
 
 ### Autonomous Driving & ADAS
-
 `Perception` · `Prediction` · `Decision Systems`
 
 </td>
 
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
+<td width="25%" align="center">
 
 ### Agentic AI
-
-`Multi-Agent Systems` · `Agent Orchestration`
+`Multi-Agent Systems` · `Orchestration`
 
 </td>
 
-<td width="50%" align="center">
+<td width="25%" align="center">
 
 ### Cloud-Native Development
-
-`Scalable Systems` · `Deployment` · `Infrastructure`
+`Scalable Systems` · `Deployment`
 
 </td>
 
 </tr>
-
 </table>
 
 ---
@@ -481,43 +428,28 @@ A full-stack application that lets users create messages and schedule them for f
 <tr>
 
 <td width="20%" align="center">
-
-**OPEN SOURCE**
-
+<strong>OPEN SOURCE</strong><br/>
 <sub>Engineering</sub>
-
 </td>
 
 <td width="20%" align="center">
-
-**AI / ML**
-
+<strong>AI / ML</strong><br/>
 <sub>Intelligence</sub>
-
 </td>
 
 <td width="20%" align="center">
-
-**COMPUTER VISION**
-
+<strong>COMPUTER VISION</strong><br/>
 <sub>Perception</sub>
-
 </td>
 
 <td width="20%" align="center">
-
-**AUTONOMOUS**
-
+<strong>AUTONOMOUS</strong><br/>
 <sub>Mobility</sub>
-
 </td>
 
 <td width="20%" align="center">
-
-**FULL-STACK**
-
+<strong>FULL-STACK</strong><br/>
 <sub>Products</sub>
-
 </td>
 
 </tr>
@@ -525,10 +457,9 @@ A full-stack application that lets users create messages and schedule them for f
 
 <div align="center">
 
-### Let's build something that matters.
+### Have an interesting idea, research problem, or engineering challenge?
 
-Open to technically ambitious projects, research collaborations,  
-open-source development, and innovative products.
+I'm open to discussing **ambitious engineering projects, research collaborations, open-source development, and innovative products.**
 
 <a href="https://www.linkedin.com/in/charan-sai-masagani-86a069361/">
 <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -540,6 +471,8 @@ open-source development, and innovative products.
 
 <br/><br/>
 
+---
+
 <sub>
 AI / ML &nbsp; · &nbsp;
 COMPUTER VISION &nbsp; · &nbsp;
@@ -547,7 +480,7 @@ AUTONOMOUS SYSTEMS &nbsp; · &nbsp;
 SOFTWARE ENGINEERING
 </sub>
 
-<br/><br/>
+<br/>
 
 **M CHARAN SAI**
 
