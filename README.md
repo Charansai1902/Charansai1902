@@ -1,200 +1,243 @@
+<!--
+  ================================================================
+  GitHub Profile README — M Charan Sai
+  Edit the sections below to keep this up to date.
+  Tip: Replace project/links/certs as you add new ones.
+  ================================================================
+-->
+
 <div align="center">
 
-<br>
+<!-- Animated Typing Banner -->
+<a href="https://github.com/charansai1902">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Autonomous+Systems+Engineer;Full-Stack+Software+Developer;IoT+Engineer;Computer+Vision+Specialist" alt="Typing SVG" />
+</a>
 
-<h1 style="font-weight:600; letter-spacing:-1px;">M CHARAN SAI</h1>
+### Hi, I'm M Charan Sai
+
+Bangalore, India &nbsp;|&nbsp; B.Tech in Internet of Things, K L University &nbsp;|&nbsp; Student · Intern · Freelancer
 
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=8B8B8B&center=true&vCenter=true&width=650&lines=Autonomous+Systems+Engineer;Full-Stack+Software+Developer;Computer+Vision+Specialist;IoT+Engineer" alt="role rotator" />
+  <a href="https://www.linkedin.com/in/charan-sai-masagani-86a069361/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/charansai1902"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <!-- Add Portfolio / Resume / Email / Twitter badges here once you have the links -->
 </p>
 
-<sub>BANGALORE, INDIA &nbsp;·&nbsp; B.TECH, INTERNET OF THINGS — K L UNIVERSITY &nbsp;·&nbsp; STUDENT / INTERN / FREELANCER</sub>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/charan-sai-masagani-86a069361/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logoColor=white" height="26"/></a>
-<a href="https://github.com/charansai1902"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logoColor=white" height="26"/></a>
-
-<br>
-
 </div>
 
-<br>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:1a1a1a&height=2&section=header" width="100%"/>
+## About Me
 
-<br>
+I build intelligent, real-world systems across AI/ML, Computer Vision, ADAS, Full-Stack Development, and Automation. My work focuses on transforming complex problems into scalable, production-ready solutions—from autonomous perception and predictive intelligence to modern web platforms. Always experimenting, building, and pushing ideas beyond prototypes.
 
-## Profile
-
-I build intelligent, real-world systems across AI/ML, Computer Vision, ADAS, Full-Stack Development, and Automation — turning complex problems into scalable, production-ready solutions, from autonomous perception and predictive intelligence to modern web platforms.
-
-**Focus.** Software and AI engineering roles where I can ship real products across AI/ML, Computer Vision, ADAS & Autonomous Systems, Full-Stack Development, and Automation — high-impact teams, research-driven work, and collaborations solving problems that matter.
-
-<table>
-<tr>
-<td width="50%" valign="top">
+**Career Goals**
+Seeking software and AI opportunities where I can build real-world products across AI/ML, Computer Vision, ADAS & Autonomous Systems, Full-Stack Development, and Automation. Open to high-impact engineering roles, research-driven teams, internships, and collaborations where I can solve challenging problems and ship technology that matters.
 
 **Interests**
-Basketball · Creative Coding · Automotive Technology · Space & Future Tech
+- Basketball
+- Creative Coding
+- Automotive Technology
+- Space & Future Tech
 
-</td>
-<td width="50%" valign="top">
+**Fun Fact**
+I turn random ideas into working projects—sometimes just to see if they're possible.
 
-**Notable**
-I turn random ideas into working projects — sometimes just to see if they're possible.
+---
 
-</td>
-</tr>
-</table>
+## Tech Stack
 
-<br>
+**Languages**
 
-## Stack
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
-<table width="100%">
-<tr>
-<td width="20%"><strong>Languages</strong></td>
-<td width="80%">C · C++ · Java · Python · JavaScript · TypeScript · PHP · SQL · HTML5 · CSS3 · MATLAB</td>
-</tr>
-<tr>
-<td><strong>Frontend</strong></td>
-<td>React.js · Next.js · Tailwind CSS · Vite · Redux · React Router · Framer Motion · Bootstrap</td>
-</tr>
-<tr>
-<td><strong>Backend</strong></td>
-<td>Node.js · Express.js · FastAPI · PHP · REST APIs · WebSockets</td>
-</tr>
-<tr>
-<td><strong>Data</strong></td>
-<td>MongoDB · MySQL · Firebase · Supabase · Neo4j</td>
-</tr>
-<tr>
-<td><strong>AI / ML / CV</strong></td>
-<td>OpenCV · YOLOv8 · Dlib · TensorFlow / Keras · scikit-learn · NumPy · Pandas · LSTM · CNN · RNN · Kalman Filter · Haar Cascades · HOG · Faster R-CNN</td>
-</tr>
-<tr>
-<td><strong>Infra / Tools</strong></td>
-<td>Git · GitHub · Docker · AWS · Azure · GCP · Vercel · Render · Postman · VS Code · Streamlit · SUMO</td>
-</tr>
-<tr>
-<td><strong>Hardware</strong></td>
-<td>Arduino · ESP32 · ESP8266 · Raspberry Pi</td>
-</tr>
-</table>
+**Frontend**
 
-<br>
+![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
 
-## Featured Work
+**Backend**
 
-<table width="100%">
-<tr>
-<td width="100%">
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![REST APIs](https://img.shields.io/badge/-REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
+![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-**NeuroRoad Sentinel** — Cooperative ADAS Intelligence Platform
-Real-time ADAS system combining computer vision, collision-risk forecasting, driver-intention analysis, sensor fusion, and explainable alerts for safer autonomous mobility.
-`Python` `YOLOv8` `OpenCV` `FastAPI` `React` `WebSockets` `Kalman Filter` `NumPy`
-[→ github.com/Charansai1902/NeuroRoad-Sentinel](https://github.com/Charansai1902/NeuroRoad-Sentinel)
+**Databases**
 
-</td>
-</tr>
-<tr><td><sub>&nbsp;</sub></td></tr>
-<tr>
-<td>
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Neo4j](https://img.shields.io/badge/-Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
 
-**TurboLife AI** — Aircraft Engine RUL Prediction
-Predictive maintenance system built on NASA C-MAPSS turbofan data to estimate Remaining Useful Life, flag high-risk engines, and support maintenance decisions.
-`Python` `LSTM` `TensorFlow / Keras` `NumPy` `Pandas` `scikit-learn` `Streamlit`
-[→ github.com/Charansai1902/TurboLife](https://github.com/Charansai1902/TurboLife)
+**AI / ML / Computer Vision**
 
-</td>
-</tr>
-<tr><td><sub>&nbsp;</sub></td></tr>
-<tr>
-<td>
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/-YOLOv8-111F68?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow/Keras-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Dlib](https://img.shields.io/badge/-Dlib-8A2BE2?style=flat-square)
+![LSTM/CNN/RNN](https://img.shields.io/badge/-LSTM_·_CNN_·_RNN-4B8BBE?style=flat-square)
+![Kalman Filter](https://img.shields.io/badge/-Kalman_Filter-2E8B57?style=flat-square)
+![Faster R-CNN](https://img.shields.io/badge/-Faster_R--CNN-B22222?style=flat-square)
+![HOG / Haar Cascades](https://img.shields.io/badge/-HOG_·_Haar_Cascades-708090?style=flat-square)
 
-**Time Capsule Messenger** — Full-Stack Scheduled Messaging Platform
-Full-stack app for composing messages and scheduling future delivery, with persistent storage, automated background scheduling, and email delivery.
-`React` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Node-cron` `Nodemailer`
-[→ github.com/Charansai1902/time-capsule-messenger](https://github.com/Charansai1902/time-capsule-messenger)
+**Tools & Platforms**
 
-</td>
-</tr>
-</table>
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![ESP8266](https://img.shields.io/badge/-ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![SUMO](https://img.shields.io/badge/-SUMO-1B6B8C?style=flat-square)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
-<br>
+---
 
-## Activity
+## Featured Projects
+
+### [NeuroRoad Sentinel — Cooperative ADAS Intelligence Platform](https://github.com/Charansai1902/NeuroRoad-Sentinel)
+Real-time intelligent ADAS platform combining computer vision, collision-risk forecasting, driver-intention analysis, sensor fusion, and explainable alerts for safer autonomous mobility.
+**Tech Stack:** Python · YOLOv8 · OpenCV · FastAPI · React · WebSockets · Kalman Filter · NumPy
+
+### [TurboLife AI — Aircraft Engine RUL Prediction](https://github.com/Charansai1902/TurboLife)
+AI-powered predictive maintenance system built around NASA C-MAPSS turbofan data to estimate Remaining Useful Life (RUL), identify high-risk engines, and support maintenance decision-making.
+**Tech Stack:** Python · LSTM · TensorFlow/Keras · NumPy · Pandas · scikit-learn · Streamlit
+
+### [Time Capsule Messenger — Full-Stack Scheduled Messaging Platform](https://github.com/Charansai1902/time-capsule-messenger)
+Full-stack application that lets users create messages and schedule them for future delivery, combining persistent storage, automated background scheduling, and email delivery.
+**Tech Stack:** React · Tailwind CSS · Node.js · Express.js · MongoDB · Node-cron · Nodemailer
+
+<!-- Add more projects here in the same format -->
+
+---
+
+## GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=charansai1902&show_icons=true&theme=default&hide_border=true&hide_title=true&text_color=333&icon_color=333&title_color=111" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charansai1902&layout=compact&theme=default&hide_border=true&text_color=333&title_color=111&langs_count=8" height="150"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=charansai1902&theme=default&hide_border=true&background=FFFFFF00&stroke=333&currStreakLabel=111&ring=333" height="150"/>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=charansai1902&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charansai1902&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
-<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charansai1902&theme=tokyonight&hide_border=true" />
+</div>
+
+---
 
 ## Achievements & Certifications
 
-<table width="100%">
-<tr>
-<td valign="top" width="25%"><strong>Cloud &amp; Platform</strong></td>
-<td valign="top">
-AWS Certified Cloud Practitioner<br>
-AWS Educate — Introduction to Cloud 101<br>
-AWS Educate Emerging Talent Community, Member<br>
-Oracle Cloud Infrastructure 2025 Certified Architect Associate<br>
-Oracle Cloud Infrastructure Foundations Associate<br>
-Aviatrix ACE Associate
-</td>
-</tr>
-<tr>
-<td valign="top"><strong>AI, Data &amp; Automation</strong></td>
-<td valign="top">
-Neo4j Certified Professional<br>
-Data Engineer Associate Practical/Skills Assessment — DataCamp<br>
-Automation Anywhere Advanced Certification<br>
-Automation Anywhere Essentials<br>
-Microsoft Future Ready Talent — AI &amp; Azure<br>
-NPTEL / IIT Kharagpur coursework
-</td>
-</tr>
-<tr>
-<td valign="top"><strong>Development &amp; Analytics</strong></td>
-<td valign="top">
-Full Stack Developer Path — Scrimba<br>
-MATLAB Onramp — MathWorks<br>
-Embedded System Application &amp; IoT Programming — KL University<br>
-Google Analytics Certification<br>
-LinkedIn Content &amp; Creative Design Certification
-</td>
-</tr>
-<tr>
-<td valign="top"><strong>Academic &amp; Recognition</strong></td>
-<td valign="top">
-Deloitte Australia Technology Job Simulation — Forage<br>
-Cambridge Linguaskill — CEFR B2<br>
-INTI Dean's Honor Roll / Academic Recognition<br>
-Best Academic Student Award<br>
-Certificate of Merit — Wildlife Protection &amp; Forest Monitoring Project<br>
-IoT Expo 2025 — Smart Conveyor Belt Project Presentation
-</td>
-</tr>
-</table>
-
+<details>
+<summary><strong>Cloud & Platform</strong></summary>
 <br>
 
-## Currently Exploring
+- AWS Certified Cloud Practitioner — Amazon Web Services
+- AWS Educate Introduction to Cloud 101
+- AWS Educate Emerging Talent Community — Member
+- Oracle Cloud Infrastructure 2025 Certified Architect Associate
+- Oracle Cloud Infrastructure Foundations Associate
+- Aviatrix ACE Associate
 
-Advanced Computer Vision · Autonomous Driving & ADAS · Agentic AI & Multi-Agent Systems · Cloud-Native Development
+</details>
 
-## Open To
-
-Open-Source Projects · AI/ML & Computer Vision Research · ADAS & Autonomous Systems · Full-Stack & Automation Projects · Startup Ideas
-
+<details>
+<summary><strong>AI, Data & Automation</strong></summary>
 <br>
 
-<
+- Neo4j Certified Professional
+- Data Engineer Associate Practical/Skills Assessment — DataCamp
+- Automation Anywhere Advanced Certification
+- Automation Anywhere Essentials
+- Microsoft Future Ready Talent — AI & Azure
+- NPTEL / IIT Kharagpur coursework
+
+</details>
+
+<details>
+<summary><strong>Development & Analytics</strong></summary>
+<br>
+
+- Full Stack Developer Path — Scrimba
+- MATLAB Onramp — MathWorks
+- Embedded System Application & IoT Programming — KL University
+- Google Analytics Certification — Google
+- LinkedIn Content & Creative Design Certification
+
+</details>
+
+<details>
+<summary><strong>Academic & Recognition</strong></summary>
+<br>
+
+- Deloitte Australia Technology Job Simulation — Forage
+- Cambridge Linguaskill — CEFR B2
+- INTI Dean's Honor Roll / Academic Recognition
+- Best Academic Student Award
+- Certificate of Merit — Wildlife Protection & Forest Monitoring Project
+- IoT Expo 2025 — Smart Conveyor Belt Project Presentation
+
+</details>
+
+---
+
+## Currently Learning
+
+- Advanced Computer Vision
+- Autonomous Driving & ADAS
+- Agentic AI & Multi-Agent Systems
+- Cloud-Native Development
+
+---
+
+## Open to Collaborate On
+
+- Open-Source Projects
+- AI/ML & Computer Vision Research
+- ADAS & Autonomous Systems
+- Full-Stack & Automation Projects
+- Innovative Startup Ideas
+
+---
+
+## Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/charan-sai-masagani-86a069361/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/charansai1902"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <!-- Add Portfolio / Resume / Email / Twitter badges here once you have the links -->
+</p>
+
+<div align="center">
+  <sub>Thanks for visiting my profile — always open to new opportunities and collaborations!</sub>
+</div>
