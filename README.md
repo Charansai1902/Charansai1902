@@ -5,26 +5,20 @@
 ### AI/ML Engineer · Computer Vision Specialist · ADAS & Autonomous Systems · Full-Stack Developer · Automation Architect
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+Intelligent+Real-World+Systems;Engineering+Computer+Vision+Solutions;Exploring+Autonomous+Mobility;Developing+End-to-End+Software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=800&height=35&lines=Building+Intelligent+Real-World+Systems;Computer+Vision+%7C+Autonomous+Mobility+%7C+AI;From+Perception+to+Production" alt="Typing SVG"/>
 </a>
+
+**Bangalore, India** &nbsp; · &nbsp; **B.Tech in Internet of Things — K L University**
 
 <br/>
 
-**Bangalore, India** &nbsp; | &nbsp; **B.Tech in Internet of Things — K L University**
-
-<br/><br/>
-
 <a href="https://www.linkedin.com/in/charan-sai-masagani-86a069361/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/Charansai1902">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Charansai1902&style=flat-square&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -38,10 +32,9 @@ My work focuses on transforming complex problems into scalable, production-ready
 
 I enjoy taking ideas beyond experiments and turning them into systems that can be **built, tested, demonstrated, and continuously improved**.
 
-<br/>
-
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
 ### Core Focus
@@ -72,6 +65,7 @@ Creative Coding
 Space & Future Tech
 
 </td>
+
 </tr>
 </table>
 
@@ -173,8 +167,6 @@ Open to high-impact engineering roles, research-driven teams, internships, and c
 
 </div>
 
-<br/>
-
 <table>
 <tr>
 
@@ -237,8 +229,6 @@ AI-powered predictive maintenance system built around NASA C-MAPSS turbofan data
 </tr>
 </table>
 
-<br/>
-
 <table>
 <tr>
 <td valign="top">
@@ -258,8 +248,6 @@ A full-stack application that lets users create messages and schedule them for f
 | Database | MongoDB |
 | Scheduling | Node-cron |
 | Delivery | Nodemailer |
-
-<br/>
 
 <a href="https://github.com/Charansai1902/time-capsule-messenger">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -358,7 +346,6 @@ IoT Expo 2025 — Smart Conveyor Belt Project Presentation
 <td width="50%" align="center">
 
 ### Advanced Computer Vision
-
 Detection · Perception · Tracking
 
 </td>
@@ -366,7 +353,6 @@ Detection · Perception · Tracking
 <td width="50%" align="center">
 
 ### Autonomous Driving & ADAS
-
 Perception · Prediction · Decision Systems
 
 </td>
@@ -378,7 +364,6 @@ Perception · Prediction · Decision Systems
 <td width="50%" align="center">
 
 ### Agentic AI
-
 Multi-Agent Systems · Agent Orchestration
 
 </td>
@@ -386,7 +371,6 @@ Multi-Agent Systems · Agent Orchestration
 <td width="50%" align="center">
 
 ### Cloud-Native Development
-
 Scalable Systems · Deployment · Infrastructure
 
 </td>
@@ -397,98 +381,38 @@ Scalable Systems · Deployment · Infrastructure
 
 ---
 
-<div align="center">
-
-## Let's Build Something That Matters
-
-I'm open to collaborating on ambitious engineering projects where  
-**AI, intelligent software, and real-world systems come together.**
-
-<br/>
+## Open to Collaboration
 
 <table>
 <tr>
-
-<td align="center" width="20%">
-
-**OPEN SOURCE**
-
-<sub>Engineering & Contributions</sub>
-
-</td>
-
-<td align="center" width="20%">
-
-**AI / ML**
-
-<sub>Applied Intelligence</sub>
-
-</td>
-
-<td align="center" width="20%">
-
-**COMPUTER VISION**
-
-<sub>Perception & Vision Systems</sub>
-
-</td>
-
-<td align="center" width="20%">
-
-**AUTONOMOUS SYSTEMS**
-
-<sub>ADAS & Intelligent Mobility</sub>
-
-</td>
-
-<td align="center" width="20%">
-
-**FULL-STACK**
-
-<sub>Products & Automation</sub>
-
-</td>
-
+<td width="20%" align="center"><strong>OPEN SOURCE</strong><br/><sub>Engineering</sub></td>
+<td width="20%" align="center"><strong>AI / ML</strong><br/><sub>Intelligence</sub></td>
+<td width="20%" align="center"><strong>COMPUTER VISION</strong><br/><sub>Perception</sub></td>
+<td width="20%" align="center"><strong>AUTONOMOUS</strong><br/><sub>Mobility</sub></td>
+<td width="20%" align="center"><strong>FULL-STACK</strong><br/><sub>Products</sub></td>
 </tr>
 </table>
 
-<br/>
+<div align="center">
 
-### Have an interesting idea, research problem, or engineering challenge?
+### Let's build something that matters.
 
-I'm always interested in conversations around **technically ambitious projects, research collaborations, open-source development, and innovative products.**
-
-<br/>
+Open to technically ambitious projects, research collaborations, open-source development, and innovative products.
 
 <a href="https://www.linkedin.com/in/charan-sai-masagani-86a069361/">
 <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;
-
+&nbsp;
 <a href="https://github.com/Charansai1902">
 <img src="https://img.shields.io/badge/EXPLORE_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
----
-
-<br/>
-
-<sub>
-AI / ML &nbsp; · &nbsp;
-COMPUTER VISION &nbsp; · &nbsp;
-AUTONOMOUS SYSTEMS &nbsp; · &nbsp;
-SOFTWARE ENGINEERING
-</sub>
-
-<br/><br/>
+<sub>AI / ML · COMPUTER VISION · AUTONOMOUS SYSTEMS · SOFTWARE ENGINEERING</sub>
 
 ### M CHARAN SAI
 
 <sub>Engineering intelligent systems from perception to production.</sub>
-
-<br/><br/>
 
 </div>
