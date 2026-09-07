@@ -1,8 +1,3 @@
-<!-- =========================================================
-     M CHARAN SAI — GITHUB PROFILE
-     AI · COMPUTER VISION · AUTONOMOUS SYSTEMS · SOFTWARE
-========================================================== -->
-
 <div align="center">
 
 # M CHARAN SAI
@@ -34,20 +29,18 @@ alt="Typing SVG"
 
 ## About Me
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
 I build **intelligent, real-world systems** across AI/ML, Computer Vision, ADAS, Full-Stack Development, and Automation.
 
 My work focuses on transforming complex problems into scalable, production-ready solutions — from **autonomous perception and predictive intelligence** to modern full-stack platforms.
 
 I enjoy taking ideas beyond experiments and turning them into systems that can be **built, tested, demonstrated, and continuously improved**.
 
-</td>
+<br/>
 
-<td width="16%" valign="top">
+<table>
+<tr>
+
+<td width="33%" valign="top">
 
 ### Core Focus
 
@@ -57,7 +50,7 @@ Autonomous Systems
 
 </td>
 
-<td width="17%" valign="top">
+<td width="33%" valign="top">
 
 ### Engineering
 
@@ -67,7 +60,7 @@ Predictive Intelligence
 
 </td>
 
-<td width="17%" valign="top">
+<td width="33%" valign="top">
 
 ### Beyond Code
 
@@ -315,22 +308,14 @@ Full-stack application for creating messages and scheduling them for future deli
 **AWS Certified Cloud Practitioner**  
 <sub>Amazon Web Services</sub>
 
-<br/>
-
 **OCI 2025 Architect Associate**  
 <sub>Oracle</sub>
-
-<br/>
 
 **OCI Foundations Associate**  
 <sub>Oracle</sub>
 
-<br/>
-
 **Aviatrix ACE Associate**  
 <sub>Aviatrix</sub>
-
-<br/>
 
 **AWS Educate**  
 <sub>Cloud 101 · Emerging Talent</sub>
@@ -344,27 +329,17 @@ Full-stack application for creating messages and scheduling them for future deli
 **Neo4j Certified Professional**  
 <sub>Neo4j</sub>
 
-<br/>
-
 **Automation Anywhere Advanced**  
 <sub>Automation Anywhere</sub>
-
-<br/>
 
 **Automation Anywhere Essentials**  
 <sub>Automation Anywhere</sub>
 
-<br/>
-
 **Data Engineer Associate Practical**  
 <sub>DataCamp</sub>
 
-<br/>
-
 **Microsoft Future Ready Talent**  
 <sub>AI & Azure</sub>
-
-<br/>
 
 **NPTEL Technical Coursework**  
 <sub>IIT Kharagpur / NPTEL</sub>
@@ -378,25 +353,15 @@ Full-stack application for creating messages and scheduling them for future deli
 **Full Stack Developer Path**  
 <sub>Scrimba</sub>
 
-<br/>
-
 **Google Analytics Certification**  
 <sub>Google</sub>
-
-<br/>
 
 **MATLAB Onramp**  
 <sub>MathWorks</sub>
 
-<br/>
-
 **Embedded Systems & IoT Programming**
 
-<br/>
-
 **LinkedIn Learning**
-
-<br/>
 
 **Cambridge Linguaskill — B2**  
 <sub>Cambridge English</sub>
@@ -410,22 +375,14 @@ Full-stack application for creating messages and scheduling them for future deli
 **INTI Dean's Honor Roll**  
 <sub>INTI International University</sub>
 
-<br/>
-
 **Best Academic Student Award**  
 <sub>Academic Excellence</sub>
-
-<br/>
 
 **Certificate of Merit**  
 <sub>Wildlife Protection & Forest Monitoring</sub>
 
-<br/>
-
 **IoT Expo 2025**  
 <sub>Smart Conveyor Belt Project</sub>
-
-<br/>
 
 **Deloitte Australia**  
 <sub>Technology Job Simulation</sub>
