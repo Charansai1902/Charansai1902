@@ -259,6 +259,8 @@ A full-stack application that lets users create messages and schedule them for f
 | Scheduling | Node-cron |
 | Delivery | Nodemailer |
 
+<br/>
+
 <a href="https://github.com/Charansai1902/time-capsule-messenger">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -291,16 +293,11 @@ A full-stack application that lets users create messages and schedule them for f
 
 ### Cloud & Platform
 
-**AWS Certified Cloud Practitioner**
-
-**Oracle Cloud Infrastructure 2025 Certified Architect Associate**
-
-Oracle Cloud Infrastructure Foundations Associate
-
-Aviatrix ACE Associate
-
-AWS Educate — Introduction to Cloud 101
-
+**AWS Certified Cloud Practitioner**  
+**Oracle Cloud Infrastructure 2025 Certified Architect Associate**  
+Oracle Cloud Infrastructure Foundations Associate  
+Aviatrix ACE Associate  
+AWS Educate — Introduction to Cloud 101  
 AWS Educate — Emerging Talent
 
 </td>
@@ -309,16 +306,11 @@ AWS Educate — Emerging Talent
 
 ### AI · Data · Automation
 
-**Neo4j Certified Professional**
-
-**Automation Anywhere Advanced Certification**
-
-Automation Anywhere Essentials
-
-Data Engineer Associate Practical — DataCamp
-
-Microsoft Future Ready Talent — AI & Azure
-
+**Neo4j Certified Professional**  
+**Automation Anywhere Advanced Certification**  
+Automation Anywhere Essentials  
+Data Engineer Associate Practical — DataCamp  
+Microsoft Future Ready Talent — AI & Azure  
 NPTEL / IIT Kharagpur Coursework
 
 </td>
@@ -331,14 +323,10 @@ NPTEL / IIT Kharagpur Coursework
 
 ### Development & Analytics
 
-**Full Stack Developer Path — Scrimba**
-
-**Google Analytics Certification**
-
-MATLAB Onramp — MathWorks
-
-Embedded System Application & IoT Programming
-
+**Full Stack Developer Path — Scrimba**  
+**Google Analytics Certification**  
+MATLAB Onramp — MathWorks  
+Embedded System Application & IoT Programming  
 LinkedIn Content & Creative Design Certification
 
 </td>
@@ -347,16 +335,11 @@ LinkedIn Content & Creative Design Certification
 
 ### Academic Recognition
 
-**INTI Dean's Honor Roll / Academic Recognition**
-
-**Best Academic Student Award**
-
-Cambridge Linguaskill — CEFR B2
-
-Deloitte Australia Technology Job Simulation
-
-Certificate of Merit — Wildlife Protection & Forest Monitoring
-
+**INTI Dean's Honor Roll / Academic Recognition**  
+**Best Academic Student Award**  
+Cambridge Linguaskill — CEFR B2  
+Deloitte Australia Technology Job Simulation  
+Certificate of Merit — Wildlife Protection & Forest Monitoring  
 IoT Expo 2025 — Smart Conveyor Belt Project Presentation
 
 </td>
@@ -414,43 +397,98 @@ Scalable Systems · Deployment · Infrastructure
 
 ---
 
-## Open to Collaboration
-
 <div align="center">
 
-**OPEN SOURCE** &nbsp;&nbsp; | &nbsp;&nbsp;
-**AI / CV RESEARCH** &nbsp;&nbsp; | &nbsp;&nbsp;
+## Let's Build Something That Matters
+
+I'm open to collaborating on ambitious engineering projects where  
+**AI, intelligent software, and real-world systems come together.**
+
+<br/>
+
+<table>
+<tr>
+
+<td align="center" width="20%">
+
+**OPEN SOURCE**
+
+<sub>Engineering & Contributions</sub>
+
+</td>
+
+<td align="center" width="20%">
+
+**AI / ML**
+
+<sub>Applied Intelligence</sub>
+
+</td>
+
+<td align="center" width="20%">
+
+**COMPUTER VISION**
+
+<sub>Perception & Vision Systems</sub>
+
+</td>
+
+<td align="center" width="20%">
+
 **AUTONOMOUS SYSTEMS**
 
-<br/><br/>
+<sub>ADAS & Intelligent Mobility</sub>
 
-**FULL-STACK & AUTOMATION** &nbsp;&nbsp; | &nbsp;&nbsp;
-**STARTUP ENGINEERING**
+</td>
 
-<br/><br/>
+<td align="center" width="20%">
 
-If you're building something technically ambitious, research-driven, or genuinely useful, I'm always interested in a good engineering conversation.
+**FULL-STACK**
 
-<br/><br/>
+<sub>Products & Automation</sub>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+### Have an interesting idea, research problem, or engineering challenge?
+
+I'm always interested in conversations around **technically ambitious projects, research collaborations, open-source development, and innovative products.**
+
+<br/>
 
 <a href="https://www.linkedin.com/in/charan-sai-masagani-86a069361/">
-<img src="https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://github.com/Charansai1902">
-<img src="https://img.shields.io/badge/EXPLORE_MY_WORK-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+<br/><br/>
 
 ---
 
-<div align="center">
+<br/>
 
-### BUILD · TEST · LEARN · SHIP
+<sub>
+AI / ML &nbsp; · &nbsp;
+COMPUTER VISION &nbsp; · &nbsp;
+AUTONOMOUS SYSTEMS &nbsp; · &nbsp;
+SOFTWARE ENGINEERING
+</sub>
 
-<sub><b>M CHARAN SAI</b></sub>
+<br/><br/>
+
+### M CHARAN SAI
+
+<sub>Engineering intelligent systems from perception to production.</sub>
+
+<br/><br/>
 
 </div>
