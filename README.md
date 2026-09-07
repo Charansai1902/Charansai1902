@@ -479,7 +479,7 @@ SOFTWARE ENGINEERING
 
 <br/><br/>
 
-**M CHARAN SAI**
+**CHARAN SAI**
 
 <br/>
 
