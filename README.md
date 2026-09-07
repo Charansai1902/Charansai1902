@@ -1,23 +1,27 @@
+<!-- =========================================================
+     M CHARAN SAI — GITHUB PROFILE
+     AI · COMPUTER VISION · AUTONOMOUS SYSTEMS · SOFTWARE
+========================================================== -->
+
 <div align="center">
 
-# M CHARAN SAI
-
-### AI/ML Engineer · Computer Vision Specialist · ADAS & Autonomous Systems · Full-Stack Developer · Automation Architect
+<img src="./assets/charan-github-banner.png" width="100%" alt="M Charan Sai — AI ML, Computer Vision, ADAS, Full-Stack and Automation" />
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=800&height=35&lines=Building+Intelligent+Real-World+Systems;Computer+Vision+%7C+Autonomous+Mobility+%7C+AI;From+Perception+to+Production" alt="Typing SVG"/>
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&width=780&height=35&lines=Building+Intelligent+Real-World+Systems;Computer+Vision+%7C+Autonomous+Mobility+%7C+AI;Engineering+from+Perception+to+Production"
+  alt="Typing SVG"
+/>
 </a>
-
-**Bangalore, India** &nbsp; · &nbsp; **B.Tech in Internet of Things — K L University**
 
 <br/>
 
 <a href="https://www.linkedin.com/in/charan-sai-masagani-86a069361/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/Charansai1902">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -79,9 +83,9 @@ Open to high-impact engineering roles, research-driven teams, internships, and c
 
 ---
 
-## Tech Stack
+# Tech Stack
 
-**Languages**
+### Languages
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -95,7 +99,7 @@ Open to high-impact engineering roles, research-driven teams, internships, and c
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
-**Frontend**
+### Frontend
 
 ![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -106,7 +110,7 @@ Open to high-impact engineering roles, research-driven teams, internships, and c
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
 
-**Backend**
+### Backend
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
@@ -115,7 +119,7 @@ Open to high-impact engineering roles, research-driven teams, internships, and c
 ![REST APIs](https://img.shields.io/badge/-REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-**Databases**
+### Databases
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -123,7 +127,7 @@ Open to high-impact engineering roles, research-driven teams, internships, and c
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/-Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
 
-**AI / ML / Computer Vision**
+### AI / ML / Computer Vision
 
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/-YOLOv8-111F68?style=flat-square)
@@ -137,7 +141,7 @@ Open to high-impact engineering roles, research-driven teams, internships, and c
 ![Faster R-CNN](https://img.shields.io/badge/-Faster_R--CNN-B22222?style=flat-square)
 ![HOG / Haar Cascades](https://img.shields.io/badge/-HOG_·_Haar_Cascades-708090?style=flat-square)
 
-**Tools & Platforms**
+### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -239,15 +243,13 @@ AI-powered predictive maintenance system built around NASA C-MAPSS turbofan data
 
 A full-stack application that lets users create messages and schedule them for future delivery using persistent storage, automated background scheduling, and email delivery.
 
-**Architecture**
-
-| Layer | Technology |
+| Architecture | Technology |
 |---|---|
-| Frontend | React · Tailwind CSS |
-| Backend | Node.js · Express.js |
-| Database | MongoDB |
-| Scheduling | Node-cron |
-| Delivery | Nodemailer |
+| **Frontend** | React · Tailwind CSS |
+| **Backend** | Node.js · Express.js |
+| **Database** | MongoDB |
+| **Scheduling** | Node-cron |
+| **Delivery** | Nodemailer |
 
 <a href="https://github.com/Charansai1902/time-capsule-messenger">
 <img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -259,47 +261,97 @@ A full-stack application that lets users create messages and schedule them for f
 
 ---
 
-## GitHub Stats
+# GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=charansai1902&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charansai1902&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charansai1902&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=charansai1902&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charansai1902&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=charansai1902&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
 
-## Selected Credentials
+# Certifications & Achievements
+
+<div align="center">
+
+### Professional certifications, technical credentials, and academic recognition
+
+</div>
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### Cloud & Platform
+### Cloud & Infrastructure
 
 **AWS Certified Cloud Practitioner**  
+<sub>Amazon Web Services</sub>
+
+<br/>
+
 **Oracle Cloud Infrastructure 2025 Certified Architect Associate**  
-Oracle Cloud Infrastructure Foundations Associate  
-Aviatrix ACE Associate  
-AWS Educate — Introduction to Cloud 101  
-AWS Educate — Emerging Talent
+<sub>Oracle</sub>
+
+<br/>
+
+**Oracle Cloud Infrastructure Foundations Associate**  
+<sub>Oracle</sub>
+
+<br/>
+
+**Aviatrix ACE Associate**  
+<sub>Aviatrix</sub>
+
+<br/>
+
+**AWS Educate — Introduction to Cloud 101**  
+<sub>Amazon Web Services</sub>
+
+<br/>
+
+**AWS Educate — Emerging Talent**  
+<sub>Amazon Web Services</sub>
 
 </td>
 
 <td width="50%" valign="top">
 
-### AI · Data · Automation
+### AI, Data & Automation
 
 **Neo4j Certified Professional**  
+<sub>Neo4j</sub>
+
+<br/>
+
 **Automation Anywhere Advanced Certification**  
-Automation Anywhere Essentials  
-Data Engineer Associate Practical — DataCamp  
-Microsoft Future Ready Talent — AI & Azure  
-NPTEL / IIT Kharagpur Coursework
+<sub>Automation Anywhere</sub>
+
+<br/>
+
+**Automation Anywhere Essentials**  
+<sub>Automation Anywhere</sub>
+
+<br/>
+
+**Data Engineer Associate Practical Assessment**  
+<sub>DataCamp</sub>
+
+<br/>
+
+**Microsoft Future Ready Talent — AI & Azure**  
+<sub>Microsoft / Future Ready Talent</sub>
+
+<br/>
+
+**NPTEL Technical Coursework**  
+<sub>IIT Kharagpur / NPTEL</sub>
 
 </td>
 
@@ -309,26 +361,64 @@ NPTEL / IIT Kharagpur Coursework
 
 <td width="50%" valign="top">
 
-### Development & Analytics
+### Development & Technology
 
-**Full Stack Developer Path — Scrimba**  
+**Full Stack Developer Path**  
+<sub>Scrimba</sub>
+
+<br/>
+
 **Google Analytics Certification**  
-MATLAB Onramp — MathWorks  
-Embedded System Application & IoT Programming  
-LinkedIn Content & Creative Design Certification
+<sub>Google</sub>
+
+<br/>
+
+**MATLAB Onramp**  
+<sub>MathWorks</sub>
+
+<br/>
+
+**Embedded System Application & IoT Programming**  
+<sub>K L University</sub>
+
+<br/>
+
+**LinkedIn Content & Creative Design Certification**  
+<sub>LinkedIn Learning</sub>
+
+<br/>
+
+**Cambridge Linguaskill — CEFR B2**  
+<sub>Cambridge English</sub>
 
 </td>
 
 <td width="50%" valign="top">
 
-### Academic Recognition
+### Achievements & Recognition
 
-**INTI Dean's Honor Roll / Academic Recognition**  
+**INTI Dean's Honor Roll**  
+<sub>Academic Recognition · INTI International University</sub>
+
+<br/>
+
 **Best Academic Student Award**  
-Cambridge Linguaskill — CEFR B2  
-Deloitte Australia Technology Job Simulation  
-Certificate of Merit — Wildlife Protection & Forest Monitoring  
-IoT Expo 2025 — Smart Conveyor Belt Project Presentation
+<sub>Academic Excellence</sub>
+
+<br/>
+
+**Certificate of Merit**  
+<sub>Wildlife Protection & Forest Monitoring Project</sub>
+
+<br/>
+
+**IoT Expo 2025**  
+<sub>Smart Conveyor Belt Project Presentation</sub>
+
+<br/>
+
+**Deloitte Australia Technology Job Simulation**  
+<sub>Forage</sub>
 
 </td>
 
@@ -337,7 +427,7 @@ IoT Expo 2025 — Smart Conveyor Belt Project Presentation
 
 ---
 
-## Currently Exploring
+# Currently Exploring
 
 <table>
 
@@ -346,14 +436,16 @@ IoT Expo 2025 — Smart Conveyor Belt Project Presentation
 <td width="50%" align="center">
 
 ### Advanced Computer Vision
-Detection · Perception · Tracking
+
+`Detection` · `Perception` · `Tracking`
 
 </td>
 
 <td width="50%" align="center">
 
 ### Autonomous Driving & ADAS
-Perception · Prediction · Decision Systems
+
+`Perception` · `Prediction` · `Decision Systems`
 
 </td>
 
@@ -364,14 +456,16 @@ Perception · Prediction · Decision Systems
 <td width="50%" align="center">
 
 ### Agentic AI
-Multi-Agent Systems · Agent Orchestration
+
+`Multi-Agent Systems` · `Agent Orchestration`
 
 </td>
 
 <td width="50%" align="center">
 
 ### Cloud-Native Development
-Scalable Systems · Deployment · Infrastructure
+
+`Scalable Systems` · `Deployment` · `Infrastructure`
 
 </td>
 
@@ -381,15 +475,51 @@ Scalable Systems · Deployment · Infrastructure
 
 ---
 
-## Open to Collaboration
+# Open to Collaboration
 
 <table>
 <tr>
-<td width="20%" align="center"><strong>OPEN SOURCE</strong><br/><sub>Engineering</sub></td>
-<td width="20%" align="center"><strong>AI / ML</strong><br/><sub>Intelligence</sub></td>
-<td width="20%" align="center"><strong>COMPUTER VISION</strong><br/><sub>Perception</sub></td>
-<td width="20%" align="center"><strong>AUTONOMOUS</strong><br/><sub>Mobility</sub></td>
-<td width="20%" align="center"><strong>FULL-STACK</strong><br/><sub>Products</sub></td>
+
+<td width="20%" align="center">
+
+**OPEN SOURCE**
+
+<sub>Engineering</sub>
+
+</td>
+
+<td width="20%" align="center">
+
+**AI / ML**
+
+<sub>Intelligence</sub>
+
+</td>
+
+<td width="20%" align="center">
+
+**COMPUTER VISION**
+
+<sub>Perception</sub>
+
+</td>
+
+<td width="20%" align="center">
+
+**AUTONOMOUS**
+
+<sub>Mobility</sub>
+
+</td>
+
+<td width="20%" align="center">
+
+**FULL-STACK**
+
+<sub>Products</sub>
+
+</td>
+
 </tr>
 </table>
 
@@ -397,7 +527,8 @@ Scalable Systems · Deployment · Infrastructure
 
 ### Let's build something that matters.
 
-Open to technically ambitious projects, research collaborations, open-source development, and innovative products.
+Open to technically ambitious projects, research collaborations,  
+open-source development, and innovative products.
 
 <a href="https://www.linkedin.com/in/charan-sai-masagani-86a069361/">
 <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -409,9 +540,18 @@ Open to technically ambitious projects, research collaborations, open-source dev
 
 <br/><br/>
 
-<sub>AI / ML · COMPUTER VISION · AUTONOMOUS SYSTEMS · SOFTWARE ENGINEERING</sub>
+<sub>
+AI / ML &nbsp; · &nbsp;
+COMPUTER VISION &nbsp; · &nbsp;
+AUTONOMOUS SYSTEMS &nbsp; · &nbsp;
+SOFTWARE ENGINEERING
+</sub>
 
-### M CHARAN SAI
+<br/><br/>
+
+**M CHARAN SAI**
+
+<br/>
 
 <sub>Engineering intelligent systems from perception to production.</sub>
 
