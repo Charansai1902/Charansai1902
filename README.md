@@ -1,30 +1,27 @@
+<!--
+  ================================================================
+  GitHub Profile README — M Charan Sai
+  Edit the sections below to keep this up to date.
+  Tip: Replace project/links/certs as you add new ones.
+  ================================================================
+-->
+
 <div align="center">
 
-# M CHARAN SAI
-
-### AI/ML Engineer · Computer Vision Specialist · ADAS & Autonomous Systems · Full-Stack Developer · Automation Architect
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+Intelligent+Real-World+Systems;Engineering+Computer+Vision+Solutions;Exploring+Autonomous+Mobility;Developing+End-to-End+Software" alt="Typing SVG" />
+<!-- Animated Typing Banner -->
+<a href="https://github.com/charansai1902">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Autonomous+Systems+Engineer;Full-Stack+Software+Developer;IoT+Engineer;Computer+Vision+Specialist" alt="Typing SVG" />
 </a>
 
-<br/>
+### Hi, I'm M Charan Sai
 
-**Bangalore, India** &nbsp; | &nbsp; **B.Tech in Internet of Things — K L University**
+Bangalore, India &nbsp;|&nbsp; B.Tech in Internet of Things, K L University &nbsp;|&nbsp; Student · Intern · Freelancer
 
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/charan-sai-masagani-86a069361/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/Charansai1902">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Charansai1902&style=flat-square&label=PROFILE+VIEWS"/>
+<p>
+  <a href="https://www.linkedin.com/in/charan-sai-masagani-86a069361/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/charansai1902"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <!-- Add Portfolio / Resume / Email / Twitter badges here once you have the links -->
+</p>
 
 </div>
 
@@ -32,56 +29,19 @@
 
 ## About Me
 
-I build **intelligent, real-world systems** across AI/ML, Computer Vision, ADAS, Full-Stack Development, and Automation.
+I build intelligent, real-world systems across AI/ML, Computer Vision, ADAS, Full-Stack Development, and Automation. My work focuses on transforming complex problems into scalable, production-ready solutions—from autonomous perception and predictive intelligence to modern web platforms. Always experimenting, building, and pushing ideas beyond prototypes.
 
-My work focuses on transforming complex problems into scalable, production-ready solutions — from **autonomous perception and predictive intelligence** to modern full-stack platforms.
+**Career Goals**
+Seeking software and AI opportunities where I can build real-world products across AI/ML, Computer Vision, ADAS & Autonomous Systems, Full-Stack Development, and Automation. Open to high-impact engineering roles, research-driven teams, internships, and collaborations where I can solve challenging problems and ship technology that matters.
 
-I enjoy taking ideas beyond experiments and turning them into systems that can be **built, tested, demonstrated, and continuously improved**.
+**Interests**
+- Basketball
+- Creative Coding
+- Automotive Technology
+- Space & Future Tech
 
-<br/>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### Core Focus
-
-AI & Machine Learning  
-Computer Vision  
-Autonomous Systems
-
-</td>
-
-<td width="33%" valign="top">
-
-### Engineering
-
-Full-Stack Systems  
-Automation  
-Predictive Intelligence
-
-</td>
-
-<td width="33%" valign="top">
-
-### Beyond Code
-
-Basketball  
-Automotive Technology  
-Creative Coding  
-Space & Future Tech
-
-</td>
-</tr>
-</table>
-
-> **Building intelligent systems that move beyond prototypes.**
-
-### Career Direction
-
-Seeking software and AI opportunities where I can build real-world products across **AI/ML, Computer Vision, ADAS & Autonomous Systems, Full-Stack Development, and Automation**.
-
-Open to high-impact engineering roles, research-driven teams, internships, and collaborations where I can solve challenging problems and ship technology that matters.
+**Fun Fact**
+I turn random ideas into working projects—sometimes just to see if they're possible.
 
 ---
 
@@ -165,109 +125,21 @@ Open to high-impact engineering roles, research-driven teams, internships, and c
 
 ---
 
-# Featured Engineering
+## Featured Projects
 
-<div align="center">
-
-### Selected systems across autonomous intelligence, predictive AI and full-stack engineering
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### NeuroRoad Sentinel
-
-**COOPERATIVE ADAS INTELLIGENCE PLATFORM**
-
+### [NeuroRoad Sentinel — Cooperative ADAS Intelligence Platform](https://github.com/Charansai1902/NeuroRoad-Sentinel)
 Real-time intelligent ADAS platform combining computer vision, collision-risk forecasting, driver-intention analysis, sensor fusion, and explainable alerts for safer autonomous mobility.
+**Tech Stack:** Python · YOLOv8 · OpenCV · FastAPI · React · WebSockets · Kalman Filter · NumPy
 
-**Engineering Focus**
+### [TurboLife AI — Aircraft Engine RUL Prediction](https://github.com/Charansai1902/TurboLife)
+AI-powered predictive maintenance system built around NASA C-MAPSS turbofan data to estimate Remaining Useful Life (RUL), identify high-risk engines, and support maintenance decision-making.
+**Tech Stack:** Python · LSTM · TensorFlow/Keras · NumPy · Pandas · scikit-learn · Streamlit
 
-`Real-Time Perception`  
-`Collision Forecasting`  
-`Sensor Fusion`  
-`Explainable Decisions`
+### [Time Capsule Messenger — Full-Stack Scheduled Messaging Platform](https://github.com/Charansai1902/time-capsule-messenger)
+Full-stack application that lets users create messages and schedule them for future delivery, combining persistent storage, automated background scheduling, and email delivery.
+**Tech Stack:** React · Tailwind CSS · Node.js · Express.js · MongoDB · Node-cron · Nodemailer
 
-**Stack**
-
-`Python` `YOLOv8` `OpenCV` `FastAPI`  
-`React` `WebSockets` `Kalman Filter` `NumPy`
-
-<br/>
-
-<a href="https://github.com/Charansai1902/NeuroRoad-Sentinel">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### TurboLife AI
-
-**AIRCRAFT ENGINE PREDICTIVE INTELLIGENCE**
-
-AI-powered predictive maintenance system built around NASA C-MAPSS turbofan data to estimate Remaining Useful Life, identify high-risk engines, and support maintenance decision-making.
-
-**Engineering Focus**
-
-`NASA C-MAPSS`  
-`RUL Forecasting`  
-`LSTM Regression`  
-`Risk-Based Maintenance`
-
-**Stack**
-
-`Python` `LSTM` `TensorFlow/Keras`  
-`NumPy` `Pandas` `scikit-learn` `Streamlit`
-
-<br/>
-
-<a href="https://github.com/Charansai1902/TurboLife">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<table>
-<tr>
-<td valign="top">
-
-### Time Capsule Messenger
-
-**FULL-STACK SCHEDULED MESSAGING PLATFORM**
-
-A full-stack application that lets users create messages and schedule them for future delivery using persistent storage, automated background scheduling, and email delivery.
-
-**Architecture**
-
-| Layer | Technology |
-|---|---|
-| Frontend | React · Tailwind CSS |
-| Backend | Node.js · Express.js |
-| Database | MongoDB |
-| Scheduling | Node-cron |
-| Delivery | Nodemailer |
-
-<br/>
-
-<a href="https://github.com/Charansai1902/time-capsule-messenger">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-</table>
+<!-- Add more projects here in the same format -->
 
 ---
 
@@ -284,211 +156,88 @@ A full-stack application that lets users create messages and schedule them for f
 
 ---
 
-## Selected Credentials
+## Achievements & Certifications
 
-<table>
-<tr>
+<details>
+<summary><strong>Cloud & Platform</strong></summary>
+<br>
 
-<td width="50%" valign="top">
+- AWS Certified Cloud Practitioner — Amazon Web Services
+- AWS Educate Introduction to Cloud 101
+- AWS Educate Emerging Talent Community — Member
+- Oracle Cloud Infrastructure 2025 Certified Architect Associate
+- Oracle Cloud Infrastructure Foundations Associate
+- Aviatrix ACE Associate
 
-### Cloud & Platform
+</details>
 
-**AWS Certified Cloud Practitioner**  
-**Oracle Cloud Infrastructure 2025 Certified Architect Associate**  
-Oracle Cloud Infrastructure Foundations Associate  
-Aviatrix ACE Associate  
-AWS Educate — Introduction to Cloud 101  
-AWS Educate — Emerging Talent
+<details>
+<summary><strong>AI, Data & Automation</strong></summary>
+<br>
 
-</td>
+- Neo4j Certified Professional
+- Data Engineer Associate Practical/Skills Assessment — DataCamp
+- Automation Anywhere Advanced Certification
+- Automation Anywhere Essentials
+- Microsoft Future Ready Talent — AI & Azure
+- NPTEL / IIT Kharagpur coursework
 
-<td width="50%" valign="top">
+</details>
 
-### AI · Data · Automation
+<details>
+<summary><strong>Development & Analytics</strong></summary>
+<br>
 
-**Neo4j Certified Professional**  
-**Automation Anywhere Advanced Certification**  
-Automation Anywhere Essentials  
-Data Engineer Associate Practical — DataCamp  
-Microsoft Future Ready Talent — AI & Azure  
-NPTEL / IIT Kharagpur Coursework
+- Full Stack Developer Path — Scrimba
+- MATLAB Onramp — MathWorks
+- Embedded System Application & IoT Programming — KL University
+- Google Analytics Certification — Google
+- LinkedIn Content & Creative Design Certification
 
-</td>
+</details>
 
-</tr>
+<details>
+<summary><strong>Academic & Recognition</strong></summary>
+<br>
 
-<tr>
+- Deloitte Australia Technology Job Simulation — Forage
+- Cambridge Linguaskill — CEFR B2
+- INTI Dean's Honor Roll / Academic Recognition
+- Best Academic Student Award
+- Certificate of Merit — Wildlife Protection & Forest Monitoring Project
+- IoT Expo 2025 — Smart Conveyor Belt Project Presentation
 
-<td width="50%" valign="top">
-
-### Development & Analytics
-
-**Full Stack Developer Path — Scrimba**  
-**Google Analytics Certification**  
-MATLAB Onramp — MathWorks  
-Embedded System Application & IoT Programming  
-LinkedIn Content & Creative Design Certification
-
-</td>
-
-<td width="50%" valign="top">
-
-### Academic Recognition
-
-**INTI Dean's Honor Roll / Academic Recognition**  
-**Best Academic Student Award**  
-Cambridge Linguaskill — CEFR B2  
-Deloitte Australia Technology Job Simulation  
-Certificate of Merit — Wildlife Protection & Forest Monitoring  
-IoT Expo 2025 — Smart Conveyor Belt Project Presentation
-
-</td>
-
-</tr>
-</table>
+</details>
 
 ---
 
-## Currently Exploring
+## Currently Learning
 
-<table>
-
-<tr>
-
-<td width="50%" align="center">
-
-### Advanced Computer Vision
-
-Detection · Perception · Tracking
-
-</td>
-
-<td width="50%" align="center">
-
-### Autonomous Driving & ADAS
-
-Perception · Prediction · Decision Systems
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-### Agentic AI
-
-Multi-Agent Systems · Agent Orchestration
-
-</td>
-
-<td width="50%" align="center">
-
-### Cloud-Native Development
-
-Scalable Systems · Deployment · Infrastructure
-
-</td>
-
-</tr>
-
-</table>
+- Advanced Computer Vision
+- Autonomous Driving & ADAS
+- Agentic AI & Multi-Agent Systems
+- Cloud-Native Development
 
 ---
+
+## Open to Collaborate On
+
+- Open-Source Projects
+- AI/ML & Computer Vision Research
+- ADAS & Autonomous Systems
+- Full-Stack & Automation Projects
+- Innovative Startup Ideas
+
+---
+
+## Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/charan-sai-masagani-86a069361/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/charansai1902"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <!-- Add Portfolio / Resume / Email / Twitter badges here once you have the links -->
+</p>
 
 <div align="center">
-
-## Let's Build Something That Matters
-
-I'm open to collaborating on ambitious engineering projects where  
-**AI, intelligent software, and real-world systems come together.**
-
-<br/>
-
-<table>
-<tr>
-
-<td align="center" width="20%">
-
-**OPEN SOURCE**
-
-<sub>Engineering & Contributions</sub>
-
-</td>
-
-<td align="center" width="20%">
-
-**AI / ML**
-
-<sub>Applied Intelligence</sub>
-
-</td>
-
-<td align="center" width="20%">
-
-**COMPUTER VISION**
-
-<sub>Perception & Vision Systems</sub>
-
-</td>
-
-<td align="center" width="20%">
-
-**AUTONOMOUS SYSTEMS**
-
-<sub>ADAS & Intelligent Mobility</sub>
-
-</td>
-
-<td align="center" width="20%">
-
-**FULL-STACK**
-
-<sub>Products & Automation</sub>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-### Have an interesting idea, research problem, or engineering challenge?
-
-I'm always interested in conversations around **technically ambitious projects, research collaborations, open-source development, and innovative products.**
-
-<br/>
-
-<a href="https://www.linkedin.com/in/charan-sai-masagani-86a069361/">
-<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/Charansai1902">
-<img src="https://img.shields.io/badge/EXPLORE_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
----
-
-<br/>
-
-<sub>
-AI / ML &nbsp; · &nbsp;
-COMPUTER VISION &nbsp; · &nbsp;
-AUTONOMOUS SYSTEMS &nbsp; · &nbsp;
-SOFTWARE ENGINEERING
-</sub>
-
-<br/><br/>
-
-### M CHARAN SAI
-
-<sub>Engineering intelligent systems from perception to production.</sub>
-
-<br/><br/>
-
+  <sub>Thanks for visiting my profile — always open to new opportunities and collaborations!</sub>
 </div>
