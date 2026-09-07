@@ -1,22 +1,17 @@
-<!-- =========================================================
-     M CHARAN SAI — GITHUB PROFILE
-     AI · COMPUTER VISION · AUTONOMOUS SYSTEMS · SOFTWARE
-========================================================== -->
-
 <div align="center">
 
-# M CHARAN SAI
+#  CHARAN SAI M
 
 ### AI/ML Engineer · Computer Vision Specialist · ADAS & Autonomous Systems · Full-Stack Developer · Automation Architect
 
 <a href="https://git.io/typing-svg">
 <img
 src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&width=820&height=35&lines=Building+Intelligent+Real-World+Systems;Engineering+Computer+Vision+Solutions;Exploring+Autonomous+Mobility;From+Perception+to+Production"
-alt="Building Intelligent Real-World Systems"
+alt="Typing SVG"
 />
 </a>
 
-**Bangalore, India** &nbsp; | &nbsp; **B.Tech in Internet of Things — K L University**
+**Bangalore, India** &nbsp; | &nbsp; **B.Tech in Internet of Things - K L University**
 
 <br/>
 
@@ -155,8 +150,8 @@ Space & Future Tech
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=flat-square)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow/Keras-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
 ![Dlib](https://img.shields.io/badge/Dlib-C2185B?style=flat-square)
 ![Deep Learning](https://img.shields.io/badge/LSTM_·_CNN_·_RNN-4B8BBE?style=flat-square)
 ![Kalman](https://img.shields.io/badge/Kalman_Filter-00897B?style=flat-square)
@@ -171,20 +166,20 @@ Space & Future Tech
 <td>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif)
+![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=espressif)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit)
 ![SUMO](https://img.shields.io/badge/SUMO-0077B6?style=flat-square)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
 
@@ -290,24 +285,12 @@ Full-stack application for creating messages and scheduling them for future deli
 
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=Charansai1902&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-height="165"
-alt="Charan Sai GitHub Stats"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charansai1902&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-height="165"
-alt="Charan Sai Most Used Languages"
-/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Charansai1902&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charansai1902&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img
-src="https://streak-stats.demolab.com?user=Charansai1902&theme=tokyonight&hide_border=true"
-alt="Charan Sai GitHub Streak"
-/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Charansai1902&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -325,22 +308,14 @@ alt="Charan Sai GitHub Streak"
 **AWS Certified Cloud Practitioner**  
 <sub>Amazon Web Services</sub>
 
-<br/>
-
 **OCI 2025 Architect Associate**  
 <sub>Oracle</sub>
-
-<br/>
 
 **OCI Foundations Associate**  
 <sub>Oracle</sub>
 
-<br/>
-
 **Aviatrix ACE Associate**  
 <sub>Aviatrix</sub>
-
-<br/>
 
 **AWS Educate**  
 <sub>Cloud 101 · Emerging Talent</sub>
@@ -354,27 +329,17 @@ alt="Charan Sai GitHub Streak"
 **Neo4j Certified Professional**  
 <sub>Neo4j</sub>
 
-<br/>
-
 **Automation Anywhere Advanced**  
 <sub>Automation Anywhere</sub>
-
-<br/>
 
 **Automation Anywhere Essentials**  
 <sub>Automation Anywhere</sub>
 
-<br/>
-
 **Data Engineer Associate Practical**  
 <sub>DataCamp</sub>
 
-<br/>
-
 **Microsoft Future Ready Talent**  
 <sub>AI & Azure</sub>
-
-<br/>
 
 **NPTEL Technical Coursework**  
 <sub>IIT Kharagpur / NPTEL</sub>
@@ -388,29 +353,17 @@ alt="Charan Sai GitHub Streak"
 **Full Stack Developer Path**  
 <sub>Scrimba</sub>
 
-<br/>
-
 **Google Analytics Certification**  
 <sub>Google</sub>
-
-<br/>
 
 **MATLAB Onramp**  
 <sub>MathWorks</sub>
 
-<br/>
+**Embedded Systems & IoT Programming**
 
-**Embedded Systems & IoT Programming**  
-<sub>K L University</sub>
+**LinkedIn Learning**
 
-<br/>
-
-**LinkedIn Learning**  
-<sub>Professional Learning</sub>
-
-<br/>
-
-**Cambridge Linguaskill — CEFR B2**  
+**Cambridge Linguaskill — B2**  
 <sub>Cambridge English</sub>
 
 </td>
@@ -422,22 +375,14 @@ alt="Charan Sai GitHub Streak"
 **INTI Dean's Honor Roll**  
 <sub>INTI International University</sub>
 
-<br/>
-
 **Best Academic Student Award**  
 <sub>Academic Excellence</sub>
-
-<br/>
 
 **Certificate of Merit**  
 <sub>Wildlife Protection & Forest Monitoring</sub>
 
-<br/>
-
 **IoT Expo 2025**  
 <sub>Smart Conveyor Belt Project</sub>
-
-<br/>
 
 **Deloitte Australia**  
 <sub>Technology Job Simulation</sub>
@@ -454,7 +399,7 @@ alt="Charan Sai GitHub Streak"
 <table>
 <tr>
 
-<td width="25%" align="center" valign="top">
+<td width="25%" align="center">
 
 ### Advanced Computer Vision
 
@@ -462,7 +407,7 @@ alt="Charan Sai GitHub Streak"
 
 </td>
 
-<td width="25%" align="center" valign="top">
+<td width="25%" align="center">
 
 ### Autonomous Driving & ADAS
 
@@ -470,7 +415,7 @@ alt="Charan Sai GitHub Streak"
 
 </td>
 
-<td width="25%" align="center" valign="top">
+<td width="25%" align="center">
 
 ### Agentic AI
 
@@ -478,7 +423,7 @@ alt="Charan Sai GitHub Streak"
 
 </td>
 
-<td width="25%" align="center" valign="top">
+<td width="25%" align="center">
 
 ### Cloud-Native Development
 
