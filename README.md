@@ -197,10 +197,4 @@ Open-Source Projects · AI/ML & Computer Vision Research · ADAS & Autonomous Sy
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:1a1a1a&height=2&section=header" width="100%"/>
-
-<div align="center">
-<br>
-<sub>M CHARAN SAI &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/charan-sai-masagani-86a069361/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://github.com/charansai1902">GitHub</a></sub>
-<br><br>
-</div>
+<
