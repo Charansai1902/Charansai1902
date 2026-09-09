@@ -2,7 +2,7 @@
 
 #  CHARAN SAI M
 
-### AI/ML Engineer · Computer Vision Specialist · ADAS & Autonomous Systems · Full-Stack Developer · Automation Architect
+### Autonomous Systems Engineer · Computer Vision Specialist · AI/ML Engineer · Full-Stack Developer · Automation Architect
 
 <a href="https://git.io/typing-svg">
 <img
